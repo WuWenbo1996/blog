@@ -26,7 +26,7 @@ tell application "System Preferences"
 end tell
 ```
 
-上述是来自知乎大佬写的一段代码https://zhuanlan.zhihu.com/p/328476489（大佬太强了）
+上述是来自[知乎大佬写的一段代码](https://zhuanlan.zhihu.com/p/328476489)（大佬太强了）
 
 里面还包含错误提示以及开机自启的改进代码，可根据自己需求取用
 
